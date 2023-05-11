@@ -1,4 +1,4 @@
-namespace TrainingManager
+namespace TrainingManager.RestService
 {
     public class WeatherForecast
     {
